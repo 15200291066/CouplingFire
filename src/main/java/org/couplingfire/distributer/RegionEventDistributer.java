@@ -10,6 +10,6 @@ public interface RegionEventDistributer extends EventDistributer{
 
     default String regionName()
     {
-        return null;
+        return this.getClass().getName();
     }
 }

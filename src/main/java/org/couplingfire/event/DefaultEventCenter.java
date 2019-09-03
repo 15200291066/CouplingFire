@@ -63,5 +63,4 @@ public class DefaultEventCenter implements EventCenter{
         return holder.size();
     }
 
-
 }

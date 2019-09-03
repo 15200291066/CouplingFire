@@ -1,4 +1,4 @@
-package org.couplingfire.core;
+package org.couplingfire.listener;
 
 import java.lang.annotation.*;
 

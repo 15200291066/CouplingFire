@@ -1,5 +1,7 @@
 package org.couplingfire.core;
 
+import org.couplingfire.listener.EventListener;
+
 /**
  * @version 1.0.1
  * @auto jerry lee
